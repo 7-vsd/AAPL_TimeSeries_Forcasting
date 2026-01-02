@@ -6,3 +6,5 @@ statsmodels
 xgboost
 tensorflow
 plotly
+matplotlib
+scipy
