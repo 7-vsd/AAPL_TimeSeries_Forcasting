@@ -345,11 +345,6 @@ If you found this project useful:
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 # 🏆 Why This Project Stands Out
 
@@ -363,7 +358,3 @@ This project is licensed under the MIT License.
 
 ---
 
-# 📚 Source Files
-
-* Main Application: 
-* Dependencies: 
